@@ -72,3 +72,6 @@ D:\LearningCode\MVCMovie\MVCMovie\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftA
 D:\LearningCode\MVCMovie\MVCMovie\obj\Debug\MVCMovie.dll
 D:\LearningCode\MVCMovie\MVCMovie\obj\Debug\MVCMovie.pdb
 D:\LearningCode\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csprojResolveAssemblyReference.cache
+D:\LearningCode\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Initial.resources
+D:\LearningCode\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.GenerateResource.Cache
+D:\LearningCode\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.rating.resources
